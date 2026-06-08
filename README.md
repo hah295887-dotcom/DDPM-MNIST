@@ -37,7 +37,7 @@ DDPM-MNIST/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/DDPM-MNIST.git
+git clone https://github.com/hah295887-dotcom/DDPM-MNIST.git
 cd DDPM-MNIST
 
 # 2. Install PyTorch (GPU version recommended)
